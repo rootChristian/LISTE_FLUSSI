@@ -1,4 +1,11 @@
-﻿using System;
+﻿/***********************************************************************
+************ Author:    Christian KEMGANG NGUESSOP *********************
+********* Description: Create function with parameters: List and to Sum
+ and return two lists when the summer equals valor sum in input  *******
+***********************************************************************/
+
+
+using System;
 using System.Collections.Generic;
 
 namespace lISTE_FLUSSI
