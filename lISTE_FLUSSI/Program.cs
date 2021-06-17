@@ -19,7 +19,7 @@ namespace lISTE_FLUSSI
             List<double> importi = new List<double> { 108.97, 222.93, 90.63, 22.39, 532.63, 129.13, 233.74, 120.32, 3047.62, 111.1, 
                                                       187.82, 261.49, 226.2, 1915.78, 148.1, 140.29, 108.05, 121.4, 257.44, 66, 47.58};
 
-            Console.WriteLine("\nRisultato delle due liste\n");
+            //Console.WriteLine("\nRisultato delle due liste\n");
             ListeDettagliateSuddividi(subTotale1, subTotale2, importi);
 
             Console.WriteLine("\nPress any board to quit!\n");
